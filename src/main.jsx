@@ -27,23 +27,11 @@ const Footer = () => {
     </footer>
 }
 
-const Btns = () => {
-  return <section className='sect'>
-  <button className='btn-primary'>Primary</button>
-  <button className='btn-secondary'>Secondary</button>
-  <button className='btn-success'>Success</button>
-  <button className='btn-danger'>Danger</button>
-  <button className='btn-warning'>Warning</button>
-  <button className='btn-info'>Info</button>
-  </section>
-}
-
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Header/>
     <HomePage/>
     <Footer/>
-    <Btns/>
      {/* <App /> */}
   </StrictMode>,
 )

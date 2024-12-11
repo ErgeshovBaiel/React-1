@@ -75,67 +75,6 @@ button:focus-visible {
   font-size: 20px;
   background-color: rgb(60, 160, 17);
 }
-.btn-primary {
-  width: 150px;
-  height: 50px;
-  margin-top: 30px;
-  background-color: #0a13c0;
-  border-radius: 5px;
-  font-size: 20px;
-  border: none;
-}
-.btn-secondary {
-  width: 150px;
-  height: 50px;
-  margin-top: 30px;
-  background-color: #68686a;
-  border-radius: 5px;
-  font-size: 20px;
-  margin-left: 15px;
-  border: none;
-}
-.btn-success {
-  width: 150px;
-  height: 50px;
-  margin-top: 30px;
-  background-color: #32932daa;
-  border-radius: 5px;
-  font-size: 20px;
-  margin-left: 15px;
-  border: none;
-}
-.btn-danger {
-  width: 150px;
-  height: 50px;
-  margin-top: 30px;
-  background-color: #e00b0baa;
-  border-radius: 5px;
-  font-size: 20px;
-  margin-left: 15px;
-  border: none;
-}
-.btn-warning {
-  width: 150px;
-  height: 50px;
-  margin-top: 30px;
-  background-color: #d5bb10e2;
-  border-radius: 5px;
-  color: #302602;
-  font-size: 20px;
-  margin-left: 15px;
-  border: none;
-}
-.btn-info {
-  width: 150px;
-  height: 50px;
-  margin-top: 30px;
-  background-color: #09aaefe2;
-  border-radius: 5px;
-  color: #302602;
-  font-size: 20px;
-  margin-left: 15px;
-  border: none;
-}
 .header {
   font-size: 50px;
   font-weight: 800;
